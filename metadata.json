@@ -1,0 +1,6 @@
+{
+  "name": "NVision — Produtora Audiovisual",
+  "description": "Plataforma offline-first em duas etapas para gestão de produção audiovisual da NVision: workspace interno da agência e portal compartilhado de clientes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
